@@ -1,0 +1,41 @@
+{
+  "name": "pluggto-js",
+  "version": "1.0.0",
+  "description": "A JavaScript Library to communication API Plugg.To",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugg-to/pluggto-js.git"
+  },
+  "keywords": [
+    "pluggto",
+    "api",
+    "library",
+    "sdk",
+    "mercadolivre",
+    "integração",
+    "magento",
+    "opencart"
+  ],
+  "author": "Gustavo Castilião <gucastiliao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plugg-to/pluggto-js/issues"
+  },
+  "homepage": "https://github.com/plugg-to/pluggto-js#readme",
+  "dependencies": {
+    "qs": "^6.5.1",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "nodemon": "^1.12.1"
+  }
+}
